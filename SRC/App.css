@@ -1,0 +1,11 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+.scrollable-container {
+  height: 75vh; /* Adjust the height as needed */
+  overflow-y: auto;
+}
+
+
+
